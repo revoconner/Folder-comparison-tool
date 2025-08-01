@@ -9,7 +9,6 @@ A powerful, multi-threaded folder comparison application built with Python and C
 - Python 3.7 or above
 - CustomTkinter
 - psutil
-- pathlib (built-in)
 
 ## Usage
 ### Basic Workflow

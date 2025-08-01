@@ -1,7 +1,8 @@
 # Folder Comparison Tool
 A powerful, multi-threaded folder comparison application built with Python and CustomTkinter, uses SHA-256 to compare any changes between folders recursively.
 
-<img width="956" height="1024" alt="image" src="https://github.com/user-attachments/assets/ad6a0227-78ae-4729-a3ef-985a4d33c588" />
+<img width="1172" height="1408" alt="image" src="https://github.com/user-attachments/assets/3abf8c21-5423-4e38-9b68-8ba1f85e36bf" />
+
 
 
 ## Requirements
